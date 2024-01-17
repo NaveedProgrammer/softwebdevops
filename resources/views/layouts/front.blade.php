@@ -1,0 +1,2 @@
+
+        @yield('front_content')
